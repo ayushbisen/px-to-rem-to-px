@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/unit-converter",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
